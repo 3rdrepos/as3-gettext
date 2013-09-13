@@ -3,3 +3,11 @@
                    Actionscript 3.0 library GNU Gettext port
 -------------------------------------------------------------------------------
 
+# Google Code Project
+
+http://code.google.com/p/actionscript3gettext/
+
+# Build the swc file
+
+1. open the `build.properties`, modify FLEX_HOME
+2. `ant` 
