@@ -110,7 +110,7 @@ package gnu.as3.gettext
          * library, you have to set the complete locale (ll_CC), not just the 
          * locale itself (ll).
          */
-        public var LANGUAGE:String;
+        public var LANGUAGE:String = "";
         
         /**
          * The user default language. Use the mklocale() function to set it.

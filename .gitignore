@@ -9,4 +9,7 @@
 samples/*.xml
 unittest/*.xml
 !*-tmp.xml
-
+.actionScriptProperties
+.flexLibProperties
+.project
+.settings
